@@ -1,0 +1,15 @@
+C:\Users\wgosb\source\repos\MIS421\AstronomyFinal\OsborneAstronomyFinal\obj\Debug\net6.0\OsborneAstronomyFinal.csproj.AssemblyReference.cache
+C:\Users\wgosb\source\repos\MIS421\AstronomyFinal\OsborneAstronomyFinal\obj\Debug\net6.0\OsborneAstronomyFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wgosb\source\repos\MIS421\AstronomyFinal\OsborneAstronomyFinal\obj\Debug\net6.0\OsborneAstronomyFinal.AssemblyInfoInputs.cache
+C:\Users\wgosb\source\repos\MIS421\AstronomyFinal\OsborneAstronomyFinal\obj\Debug\net6.0\OsborneAstronomyFinal.AssemblyInfo.cs
+C:\Users\wgosb\source\repos\MIS421\AstronomyFinal\OsborneAstronomyFinal\obj\Debug\net6.0\OsborneAstronomyFinal.csproj.CoreCompileInputs.cache
+C:\Users\wgosb\source\repos\MIS421\AstronomyFinal\OsborneAstronomyFinal\bin\Debug\net6.0\OsborneAstronomyFinal.exe
+C:\Users\wgosb\source\repos\MIS421\AstronomyFinal\OsborneAstronomyFinal\bin\Debug\net6.0\OsborneAstronomyFinal.deps.json
+C:\Users\wgosb\source\repos\MIS421\AstronomyFinal\OsborneAstronomyFinal\bin\Debug\net6.0\OsborneAstronomyFinal.runtimeconfig.json
+C:\Users\wgosb\source\repos\MIS421\AstronomyFinal\OsborneAstronomyFinal\bin\Debug\net6.0\OsborneAstronomyFinal.dll
+C:\Users\wgosb\source\repos\MIS421\AstronomyFinal\OsborneAstronomyFinal\bin\Debug\net6.0\OsborneAstronomyFinal.pdb
+C:\Users\wgosb\source\repos\MIS421\AstronomyFinal\OsborneAstronomyFinal\obj\Debug\net6.0\OsborneAstronomyFinal.dll
+C:\Users\wgosb\source\repos\MIS421\AstronomyFinal\OsborneAstronomyFinal\obj\Debug\net6.0\refint\OsborneAstronomyFinal.dll
+C:\Users\wgosb\source\repos\MIS421\AstronomyFinal\OsborneAstronomyFinal\obj\Debug\net6.0\OsborneAstronomyFinal.pdb
+C:\Users\wgosb\source\repos\MIS421\AstronomyFinal\OsborneAstronomyFinal\obj\Debug\net6.0\OsborneAstronomyFinal.genruntimeconfig.cache
+C:\Users\wgosb\source\repos\MIS421\AstronomyFinal\OsborneAstronomyFinal\obj\Debug\net6.0\ref\OsborneAstronomyFinal.dll
